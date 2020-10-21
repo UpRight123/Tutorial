@@ -1,6 +1,7 @@
 package GitTest;
 
 import java.util.ArrayList;
+import java.util.Map.Entry;
 
 public class GitTutorial {
 
@@ -20,7 +21,11 @@ public class GitTutorial {
 	    System.out.println(number.remove(0));
 	    System.out.println(number.size());
 	    
+	    
 
+	}
+	public void logIn() {
+		//System.out.println("Log in to the Application");
 	}
 
 }
